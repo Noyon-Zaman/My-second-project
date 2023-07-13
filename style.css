@@ -1,0 +1,68 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+a{
+    text-decoration: none;
+    padding: 10px 40px;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 5px;
+    color: aliceblue;
+    font-size: 700;
+    margin-top: 20px;
+}
+.tita {
+    display: flex;
+    width: 100%;
+    padding-bottom: 50px;
+}
+.text{
+    text-align: justify;
+    padding-left: 50px;
+    width: 50%;
+    padding-top: 50px;
+
+}
+.image{
+padding-left: 50px;
+width: 50%;
+}
+h1{
+    font-size: 50px;
+}
+.mitha{
+    display: flex;
+    width: 100%;
+}
+.tokh{
+    display: flex;
+    width: 100%;
+}
+.player{
+    display: flex;
+    width: 100%;
+    
+}
+.last{
+    width: 50%;
+    padding: 50px;
+    text-align: justify;
+    text-align: left;
+    box-shadow: 5px 7px 40px gray;
+    margin: 50px;
+}
+.conten{
+    
+        width: 50%;
+        padding: 50px; 
+        text-align: justify;
+        text-align: left;
+        box-shadow: 5px 7px 40px gray;
+      margin: 50px;
+}  
+.long{
+    color: indianred;
+}
+footer{
+    text-align: center;
+    color:indianred;
+}
